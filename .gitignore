@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 *.zip
 data/
+=======
+data/*
+.env*
+.ipynb_checkpoints
+>>>>>>> 7abe163879a39c2c1bacc5b968932854256560c1
